@@ -21,7 +21,7 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts
 https://www.figma.com/proto/graygCwdmxKZzfBjbrEDOuZ4/WeatherApp?node-id=3%3A0&scaling=min-zoom
 
 ## Screenshot
-![Screenshot Weather App
+![Screenshot Weather](public/WeatherAppScreenshot.png)
 
 * Try the game! :
 	* [Our first cookie clicker](https://fesouille.github.io/Cookies-clicker/)
