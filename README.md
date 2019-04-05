@@ -7,6 +7,7 @@
 ## Project
 
 For this project, we have to realize a weather forecast web application using Figma, VueJS and the API openweathermap.
+We added a bonus to this project. When you search the weather for a second location, the results get animated (using GSAP).
 
 ### Link to the complete instructions
 https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts
