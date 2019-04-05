@@ -8,8 +8,17 @@
 
 For this project, we have to realize a weather forecast web application using Figma, VueJS and the API openweathermap.
 
-### Link to the complete instructions: https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts
+### Link to the complete instructions: 
+https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts
 
+## Used Languages and technologies
+
+* HTML5, CSS3
+* Javascript, VueJS
+* Axios, GSAP
+
+## link to the design layout made with Figma:
+https://www.figma.com/file/graygCwdmxKZzfBjbrEDOuZ4/WeatherApp?node-id=3%3A0
 
 * Try the game! :
 	* [Our first cookie clicker](https://fesouille.github.io/Cookies-clicker/)
