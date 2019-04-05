@@ -17,21 +17,15 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts
 * Javascript, VueJS
 * Axios, GSAP
 
-## link to the design layout made with Figma
+## Link to the design layout made with Figma
 https://www.figma.com/proto/graygCwdmxKZzfBjbrEDOuZ4/WeatherApp?node-id=3%3A0&scaling=min-zoom
 
 ## Screenshot
 ![Screenshot Weather](public/WeatherAppScreenshot.png)
 
-* Try the game! :
-	* [Our first cookie clicker](https://fesouille.github.io/Cookies-clicker/)
-
-* A few illustrating pictures:
-![Screenshot cookie clicker](img/cookie-clicker_1.png)
-![Screenshot cookie clicker](img/cookie-clicker_2.png)
+## Link to the Web Application
+https://jmbroutin.github.io/weatherapp/dist/
 
 
-* Progress: 
-	* 07 february 2019: project beginning. In order to achieve this project in group, we made use of [Trello](https://trello.com/) as our Kanban tool.
-	* 14 janvier 2019: project end
+
 
