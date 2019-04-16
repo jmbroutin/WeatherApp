@@ -2,7 +2,7 @@
 
 ## Group project of [Broutin Jean-Marc](https://github.com/jmbroutin), [Weiss Dorothee](https://github.com/doropro).
 
-*Exercice realized from 1st april 2019 to 5 april 2019, as a group project for the formation [BeCode](https://www.becode.org/) to be a Web Developper*
+*Exercice realized from 1st april 2019 to 5 april 2019, as a group project for the formation [BeCode](https://www.becode.org/) to be a Web Developper. Dorothee and myself worked both on the creation of the mockup and we did some peer-coding to develop the application. *
 
 ## Project
 
